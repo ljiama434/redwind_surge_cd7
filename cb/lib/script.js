@@ -14,7 +14,7 @@ window.layer.open({
             content:'images/video.mp4',
             btn:['Click Here!! ลงทะเบียนเพื่อส่ง 1000THB'],
             yes: function(index, layero){
-                window.location="https://lihi1.com/OEHV6/";
+                window.location="https://lihi1.com/OEHV6/reddoggy";
             }
         });
         return false;
